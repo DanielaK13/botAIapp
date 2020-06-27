@@ -1,4 +1,4 @@
-# botIApp
+# botAIapp
 
 ## Description
 
