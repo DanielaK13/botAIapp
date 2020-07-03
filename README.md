@@ -11,7 +11,7 @@ It is a chatbot that knows about:
 
 - **Ontologies**. 
 
-The source code of app Android was adapted from https://github.com/moondroid/ChatBot that uses[A.L.I.C.E.](http://www.alicebot.org/about.html) artificial intelligence.
+The source code of app Android was adapted from https://github.com/moondroid/ChatBot that uses [A.L.I.C.E.](http://www.alicebot.org/about.html) artificial intelligence.
 
 
 ## AIML Files /app/src/main/assets/alice-it/aiml/
@@ -30,7 +30,7 @@ The source code of app Android was adapted from https://github.com/moondroid/Cha
 2. The AIML files is loaded.
 3. Chatbot is available to answer (only in brazilian portuguese).
 
-## Keywords available to use
+## Keywords available to use (in brazilian portuguese)
 
 Aptidão, Fitness, Cromossomo(s), Gene(s), População, Geração, Cruzamento, Mutação, Convergência prematura, Seleção, Steady-state, Substituição, Algoritmos genéticos (AG), Programação evolutiva, Crenças, Intenções, BDI, Agente(s) móvel(is), Agente(s) estacionário(s), Agente(s) reativo(s), Inteligência artificial distribuída (IAD), Sistemas multiagentes (SMA), Axioma(s), Computação adaptativa, Ontologia(s), Web semântica, Web tradicional, Redes semânticas, Noção forte, Noção fraca, Crossover, Duplicação, Reprodução,  Recombinação, Agente(s) inteligente(s) (AI), Agente(s) aprendiz(es), Agente(s) cognitivo(s), PEAS, Arquitetura de agentes, Arquitetura deliberativo, Arquitetura reativa, Arquitetura, Reatividade, Proatividade, Orientado a meta, Raciocínio, Aprendizado, Autonomia, Sociabilidade, Mobilidade, Continuidade temporal, Comunicação, Colaboração, Adaptabilidade, Benevolência, Veracidade.
 
