@@ -11,7 +11,7 @@ It is a chatbot that knows about:
 
 - **Ontologies**. 
 
-The source code of app Android was adapted from https://github.com/moondroid/ChatBot that uses [A.L.I.C.E.](http://www.alicebot.org/about.html) artificial intelligence.
+The source code of app Android was adapted from https://github.com/moondroid/ChatBot, which uses [A.L.I.C.E.](http://www.alicebot.org/about.html) artificial intelligence.
 
 
 ## AIML Files /app/src/main/assets/alice-it/aiml/
